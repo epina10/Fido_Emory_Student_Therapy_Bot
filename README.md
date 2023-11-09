@@ -1,4 +1,4 @@
-# fido_the_feelings_bot
+# fido_the_Emory_student_feelings_bot
 
 ## Instructions
 
